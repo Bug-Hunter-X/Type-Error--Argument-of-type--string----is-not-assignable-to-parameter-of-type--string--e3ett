@@ -1,0 +1,1 @@
+This example demonstrates a common TypeScript error: passing an array to a function that expects a string. The function `greeter` expects a string argument but receives an array of strings.  The solution involves type checking or modifying the function to handle arrays.
